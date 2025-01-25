@@ -2,12 +2,16 @@ h1{
     background-color: aqua;
     text-align: center;
     font-family: fantasy;
-    font-size: 30px;
+    font-size: 20vh;
     
     
 }
+h2{
+    text-align: center;
+    font-size: 10vh;
+}
 body{
-    background-color: chocolate;
+    background-color:violet;
     margin:0;
     padding: 0;
 
